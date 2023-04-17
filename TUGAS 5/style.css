@@ -1,0 +1,37 @@
+a.menu {
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+    
+}
+
+div.slider-div {
+    text-align: center;
+    padding-top: 10px;
+}
+
+table {
+    background-color: black;
+    border-collapse: collapse;
+}
+
+header {
+    background-color: black;
+}
+
+td {
+    padding-right: 10px;
+    
+}
+
+div.footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+div.footer-alamat {
+    text-align: center;
+    color: white;
+    background-color: black;
+}

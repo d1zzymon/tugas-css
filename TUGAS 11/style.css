@@ -1,0 +1,35 @@
+p {
+    column-count: 4;
+    column-gap: 20px;
+    column-rule-style: solid;
+    column-fill: balance;
+    text-align: justify;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    height: 50px;
+}
+
+h2 {
+    color: white;
+    
+}
+
+a {
+    text-decoration: none; font-size: 20px; padding: 14px 10px
+}
+ul {
+    padding: 14px
+}
+li {
+    list-style: none; display: inline;
+}
+li a {
+    background: #222; color:#ffffff;
+}
+
+nav {
+    background: #222; height: 50px
+}

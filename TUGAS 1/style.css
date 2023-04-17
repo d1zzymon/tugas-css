@@ -1,0 +1,8 @@
+p {
+    font-size: 18px;
+    color: blue;
+}
+
+img, h1 {
+    display: inline-block;
+}
